@@ -1,0 +1,11 @@
+;pais_destino;quantidade_l;valor_uss;cod_num;iso_alpha;pais_origem
+0;Paraguai;29214770;38719031;600;PRY;Brasil
+1;Rússia;39029799;25504484;643;RUS;Brasil
+2;Estados Unidos;3563355;9684567;840;USA;Brasil
+3;China;2509458;4746525;156;CHN;Brasil
+4;Reino Unido;1239551;4711464;826;GBR;Brasil
+5;Espanha;1993000;3808552;724;ESP;Brasil
+6;Países Baixos;1236154;3791611;528;NLD;Brasil
+7;Alemanha;909051;2546394;276;DEU;Brasil
+8;Japão;1181692;2377716;392;JPN;Brasil
+9;Haiti;1791603;2327208;332;HTI;Brasil

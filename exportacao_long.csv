@@ -1,0 +1,1756 @@
+;pais_destino;ano;quantidade_l;valor_uss
+0;Afeganistão;2008;0;0
+1;África do Sul;2008;0;0
+2;Alemanha;2008;265742;429970
+3;Angola;2008;25721;71083
+4;Antígua e Barbuda;2008;0;0
+5;Antilhas Holandesas;2008;17938;22908
+6;Argentina;2008;0;0
+7;Aruba;2008;0;0
+8;Austrália;2008;218726;99280
+9;Áustria;2008;0;0
+10;Bahamas;2008;0;0
+11;Bangladesh;2008;0;0
+12;Barbados;2008;0;0
+13;Barein;2008;0;0
+14;Bélgica;2008;3523;12969
+15;Belice;2008;0;0
+16;Benin;2008;10350;17423
+17;Bolívia;2008;3979;3990
+18;Bósnia-Herzegovina;2008;0;0
+19;Brasil;2008;0;0
+20;Bulgária;2008;0;0
+21;Cabo Verde;2008;0;0
+22;Camarões;2008;0;0
+23;Canadá;2008;20949;80476
+24;Catar;2008;0;0
+25;Cayman, Ilhas;2008;0;0
+26;Chile;2008;0;0
+27;China;2008;8689;25926
+28;Chipre;2008;0;0
+29;Cingapura;2008;1233;4699
+30;Cocos (Keeling), Ilhas;2008;0;0
+31;Colômbia;2008;0;0
+32;Comores;2008;0;0
+33;Congo;2008;0;0
+34;Coreia, Republica Sul;2008;3520;14366
+35;Costa Rica;2008;55;200
+36;Croácia;2008;0;0
+37;Cuba;2008;0;0
+38;Curaçao;2008;0;0
+39;Dinamarca;2008;518;15905
+40;Dominica;2008;0;0
+41;El Salvador;2008;0;0
+42;Emirados Arabes Unidos;2008;2437;12298
+43;Equador;2008;0;0
+44;Eslovaca, Republica;2008;585;16063
+45;Espanha;2008;2942;6834
+46;Estados Unidos;2008;443895;804607
+47;Estônia;2008;4114;9730
+48;Filipinas;2008;0;0
+49;Finlândia;2008;0;0
+50;França;2008;11078;27500
+51;Gana;2008;18168;25642
+52;Gibraltar;2008;0;0
+53;Granada;2008;0;0
+54;Grécia;2008;0;0
+55;Guatemala;2008;0;0
+56;Guiana;2008;0;0
+57;Guiana Francesa;2008;0;0
+58;Guine Bissau;2008;0;0
+59;Guine Equatorial;2008;548;1417
+60;Haiti;2008;20;20
+61;Honduras;2008;162;580
+62;Hong Kong;2008;2430;13460
+63;Hungria;2008;0;0
+64;Ilha de Man;2008;0;0
+65;India;2008;0;0
+66;Indonésia;2008;0;0
+67;Irã;2008;0;0
+68;Irlanda;2008;0;0
+69;Itália;2008;0;0
+70;Japão;2008;232293;178333
+71;Jordânia;2008;0;0
+72;Letônia;2008;0;0
+73;Libéria;2008;0;0
+74;Luxemburgo;2008;13606;42341
+75;Malásia;2008;0;0
+76;Malta;2008;0;0
+77;Marshall, Ilhas;2008;0;0
+78;Mauritânia;2008;0;0
+79;México;2008;0;0
+80;Moçambique;2008;0;0
+81;Montenegro;2008;0;0
+82;Namibia;2008;340;722
+83;Nicaragua;2008;0;0
+84;Nigéria;2008;7560;10920
+85;Noruega;2008;0;0
+86;Nova Caledônia;2008;0;0
+87;Nova Zelândia;2008;0;0
+88;Omã;2008;0;0
+89;Países Baixos;2008;340412;783635
+90;Panamá;2008;1161;1882
+91;Paraguai;2008;2191901;1374088
+92;Peru;2008;0;0
+93;Polônia;2008;20290;58353
+94;Portugal;2008;49090;48942
+95;Quênia;2008;0;0
+96;Reino Unido;2008;100097;155076
+97;Rússia;2008;6207658;2352768
+98;São Tomé e Príncipe;2008;0;0
+99;São Vicente e Granadinas;2008;0;0
+100;Serra Leoa;2008;0;0
+101;Singapura;2008;0;0
+102;Suazilândia;2008;0;0
+103;Suécia;2008;26984;84564
+104;Suíça;2008;54384;216317
+105;Suriname;2008;900;1625
+106;Tailândia;2008;0;0
+107;Taiwan (FORMOSA);2008;10030;18679
+108;Tcheca, República;2008;17135;64709
+109;Togo;2008;5160;7800
+110;Trinidade Tobago;2008;0;0
+111;Turquia;2008;0;0
+112;Tuvalu;2008;0;0
+113;Uruguai;2008;0;0
+114;Vanuatu;2008;0;0
+115;Venezuela;2008;0;0
+116;Vietnã;2008;0;0
+117;Afeganistão;2009;0;0
+118;África do Sul;2009;0;0
+119;Alemanha;2009;225086;393482
+120;Angola;2009;54786;84235
+121;Antígua e Barbuda;2009;0;0
+122;Antilhas Holandesas;2009;8235;10651
+123;Argentina;2009;162;4523
+124;Aruba;2009;0;0
+125;Austrália;2009;1014;9195
+126;Áustria;2009;0;0
+127;Bahamas;2009;0;0
+128;Bangladesh;2009;0;0
+129;Barbados;2009;0;0
+130;Barein;2009;0;0
+131;Bélgica;2009;125962;58764
+132;Belice;2009;0;0
+133;Benin;2009;0;0
+134;Bolívia;2009;40463;20729
+135;Bósnia-Herzegovina;2009;0;0
+136;Brasil;2009;0;0
+137;Bulgária;2009;0;0
+138;Cabo Verde;2009;0;0
+139;Camarões;2009;0;0
+140;Canadá;2009;15664;73445
+141;Catar;2009;0;0
+142;Cayman, Ilhas;2009;0;0
+143;Chile;2009;1475;4297
+144;China;2009;1553416;482400
+145;Chipre;2009;0;0
+146;Cingapura;2009;2419;6110
+147;Cocos (Keeling), Ilhas;2009;0;0
+148;Colômbia;2009;0;0
+149;Comores;2009;0;0
+150;Congo;2009;0;0
+151;Coreia, Republica Sul;2009;0;0
+152;Costa Rica;2009;0;0
+153;Croácia;2009;0;0
+154;Cuba;2009;0;0
+155;Curaçao;2009;0;0
+156;Dinamarca;2009;1980;21780
+157;Dominica;2009;0;0
+158;El Salvador;2009;55;100
+159;Emirados Arabes Unidos;2009;1398;4032
+160;Equador;2009;0;0
+161;Eslovaca, Republica;2009;0;0
+162;Espanha;2009;2181;4050
+163;Estados Unidos;2009;372319;660066
+164;Estônia;2009;5438;10802
+165;Filipinas;2009;0;0
+166;Finlândia;2009;0;0
+167;França;2009;0;0
+168;Gana;2009;0;0
+169;Gibraltar;2009;0;0
+170;Granada;2009;0;0
+171;Grécia;2009;0;0
+172;Guatemala;2009;20;20
+173;Guiana;2009;0;0
+174;Guiana Francesa;2009;0;0
+175;Guine Bissau;2009;0;0
+176;Guine Equatorial;2009;169;272
+177;Haiti;2009;4500;5863
+178;Honduras;2009;14;30
+179;Hong Kong;2009;50319;27188
+180;Hungria;2009;0;0
+181;Ilha de Man;2009;0;0
+182;India;2009;0;0
+183;Indonésia;2009;0;0
+184;Irã;2009;0;0
+185;Irlanda;2009;0;0
+186;Itália;2009;1817;5251
+187;Japão;2009;217974;283436
+188;Jordânia;2009;0;0
+189;Letônia;2009;0;0
+190;Libéria;2009;0;0
+191;Luxemburgo;2009;7845;42124
+192;Malásia;2009;0;0
+193;Malta;2009;0;0
+194;Marshall, Ilhas;2009;0;0
+195;Mauritânia;2009;0;0
+196;México;2009;0;0
+197;Moçambique;2009;0;0
+198;Montenegro;2009;0;0
+199;Namibia;2009;0;0
+200;Nicaragua;2009;24;24
+201;Nigéria;2009;41;115
+202;Noruega;2009;0;0
+203;Nova Caledônia;2009;0;0
+204;Nova Zelândia;2009;0;0
+205;Omã;2009;0;0
+206;Países Baixos;2009;171654;136991
+207;Panamá;2009;24;30
+208;Paraguai;2009;486927;392087
+209;Peru;2009;0;0
+210;Polônia;2009;6982;35797
+211;Portugal;2009;141000;168923
+212;Quênia;2009;0;0
+213;Reino Unido;2009;30092;68788
+214;Rússia;2009;21912914;5732280
+215;São Tomé e Príncipe;2009;0;0
+216;São Vicente e Granadinas;2009;0;0
+217;Serra Leoa;2009;0;0
+218;Singapura;2009;0;0
+219;Suazilândia;2009;0;0
+220;Suécia;2009;28334;52826
+221;Suíça;2009;27653;81319
+222;Suriname;2009;3830;12918
+223;Tailândia;2009;0;0
+224;Taiwan (FORMOSA);2009;0;0
+225;Tcheca, República;2009;9269;43902
+226;Togo;2009;0;0
+227;Trinidade Tobago;2009;0;0
+228;Turquia;2009;0;0
+229;Tuvalu;2009;0;0
+230;Uruguai;2009;0;0
+231;Vanuatu;2009;0;0
+232;Venezuela;2009;0;0
+233;Vietnã;2009;743;2143
+234;Afeganistão;2010;0;0
+235;África do Sul;2010;0;0
+236;Alemanha;2010;27715;138666
+237;Angola;2010;33557;189891
+238;Antígua e Barbuda;2010;0;0
+239;Antilhas Holandesas;2010;9810;12808
+240;Argentina;2010;0;0
+241;Aruba;2010;0;0
+242;Austrália;2010;1823;17960
+243;Áustria;2010;0;0
+244;Bahamas;2010;3175;12759
+245;Bangladesh;2010;0;0
+246;Barbados;2010;0;0
+247;Barein;2010;0;0
+248;Bélgica;2010;42532;185411
+249;Belice;2010;0;0
+250;Benin;2010;0;0
+251;Bolívia;2010;54;282
+252;Bósnia-Herzegovina;2010;0;0
+253;Brasil;2010;0;0
+254;Bulgária;2010;0;0
+255;Cabo Verde;2010;11991;49366
+256;Camarões;2010;0;0
+257;Canadá;2010;0;0
+258;Catar;2010;0;0
+259;Cayman, Ilhas;2010;0;0
+260;Chile;2010;0;0
+261;China;2010;795;2358
+262;Chipre;2010;0;0
+263;Cingapura;2010;1533;5504
+264;Cocos (Keeling), Ilhas;2010;0;0
+265;Colômbia;2010;0;0
+266;Comores;2010;0;0
+267;Congo;2010;0;0
+268;Coreia, Republica Sul;2010;0;0
+269;Costa Rica;2010;0;0
+270;Croácia;2010;0;0
+271;Cuba;2010;0;0
+272;Curaçao;2010;0;0
+273;Dinamarca;2010;7034;69161
+274;Dominica;2010;0;0
+275;El Salvador;2010;0;0
+276;Emirados Arabes Unidos;2010;1035;3206
+277;Equador;2010;0;0
+278;Eslovaca, Republica;2010;0;0
+279;Espanha;2010;0;0
+280;Estados Unidos;2010;228968;478630
+281;Estônia;2010;15848;40778
+282;Filipinas;2010;0;0
+283;Finlândia;2010;0;0
+284;França;2010;3614;18904
+285;Gana;2010;0;0
+286;Gibraltar;2010;0;0
+287;Granada;2010;0;0
+288;Grécia;2010;0;0
+289;Guatemala;2010;0;0
+290;Guiana;2010;783;3654
+291;Guiana Francesa;2010;0;0
+292;Guine Bissau;2010;0;0
+293;Guine Equatorial;2010;410;1015
+294;Haiti;2010;2700;3750
+295;Honduras;2010;0;0
+296;Hong Kong;2010;0;0
+297;Hungria;2010;540;4103
+298;Ilha de Man;2010;0;0
+299;India;2010;0;0
+300;Indonésia;2010;0;0
+301;Irã;2010;0;0
+302;Irlanda;2010;3969;42795
+303;Itália;2010;1458;4828
+304;Japão;2010;112178;74628
+305;Jordânia;2010;0;0
+306;Letônia;2010;0;0
+307;Libéria;2010;0;0
+308;Luxemburgo;2010;7344;32549
+309;Malásia;2010;0;0
+310;Malta;2010;0;0
+311;Marshall, Ilhas;2010;0;0
+312;Mauritânia;2010;0;0
+313;México;2010;0;0
+314;Moçambique;2010;0;0
+315;Montenegro;2010;0;0
+316;Namibia;2010;0;0
+317;Nicaragua;2010;0;0
+318;Nigéria;2010;0;0
+319;Noruega;2010;0;0
+320;Nova Caledônia;2010;0;0
+321;Nova Zelândia;2010;0;0
+322;Omã;2010;0;0
+323;Países Baixos;2010;87368;302182
+324;Panamá;2010;0;0
+325;Paraguai;2010;510989;449197
+326;Peru;2010;0;0
+327;Polônia;2010;20464;95198
+328;Portugal;2010;4577;18970
+329;Quênia;2010;0;0
+330;Reino Unido;2010;123624;295690
+331;Rússia;2010;0;0
+332;São Tomé e Príncipe;2010;0;0
+333;São Vicente e Granadinas;2010;0;0
+334;Serra Leoa;2010;0;0
+335;Singapura;2010;0;0
+336;Suazilândia;2010;0;0
+337;Suécia;2010;0;0
+338;Suíça;2010;2025;21600
+339;Suriname;2010;1836;1269
+340;Tailândia;2010;0;0
+341;Taiwan (FORMOSA);2010;0;0
+342;Tcheca, República;2010;1091;5285
+343;Togo;2010;0;0
+344;Trinidade Tobago;2010;0;0
+345;Turquia;2010;0;0
+346;Tuvalu;2010;0;0
+347;Uruguai;2010;914;2929
+348;Vanuatu;2010;0;0
+349;Venezuela;2010;0;0
+350;Vietnã;2010;8820;9977
+351;Afeganistão;2011;0;0
+352;África do Sul;2011;0;0
+353;Alemanha;2011;36070;144150
+354;Angola;2011;13889;69001
+355;Antígua e Barbuda;2011;0;0
+356;Antilhas Holandesas;2011;7335;10188
+357;Argentina;2011;13253;55460
+358;Aruba;2011;900;1680
+359;Austrália;2011;3632;40704
+360;Áustria;2011;0;0
+361;Bahamas;2011;4529;28810
+362;Bangladesh;2011;0;0
+363;Barbados;2011;0;0
+364;Barein;2011;0;0
+365;Bélgica;2011;11802;62339
+366;Belice;2011;0;0
+367;Benin;2011;0;0
+368;Bolívia;2011;12775;20215
+369;Bósnia-Herzegovina;2011;0;0
+370;Brasil;2011;0;0
+371;Bulgária;2011;0;0
+372;Cabo Verde;2011;600;825
+373;Camarões;2011;0;0
+374;Canadá;2011;28906;128076
+375;Catar;2011;0;0
+376;Cayman, Ilhas;2011;0;0
+377;Chile;2011;0;0
+378;China;2011;54156;334867
+379;Chipre;2011;0;0
+380;Cingapura;2011;911;3317
+381;Cocos (Keeling), Ilhas;2011;0;0
+382;Colômbia;2011;0;0
+383;Comores;2011;0;0
+384;Congo;2011;360;570
+385;Coreia, Republica Sul;2011;0;0
+386;Costa Rica;2011;0;0
+387;Croácia;2011;0;0
+388;Cuba;2011;2880;4899
+389;Curaçao;2011;0;0
+390;Dinamarca;2011;32797;83057
+391;Dominica;2011;0;0
+392;El Salvador;2011;0;0
+393;Emirados Arabes Unidos;2011;2120;6594
+394;Equador;2011;0;0
+395;Eslovaca, Republica;2011;0;0
+396;Espanha;2011;5206;24618
+397;Estados Unidos;2011;306787;1030254
+398;Estônia;2011;450;5336
+399;Filipinas;2011;0;0
+400;Finlândia;2011;12404;50394
+401;França;2011;0;0
+402;Gana;2011;0;0
+403;Gibraltar;2011;0;0
+404;Granada;2011;0;0
+405;Grécia;2011;0;0
+406;Guatemala;2011;0;0
+407;Guiana;2011;0;0
+408;Guiana Francesa;2011;0;0
+409;Guine Bissau;2011;0;0
+410;Guine Equatorial;2011;956;1979
+411;Haiti;2011;0;0
+412;Honduras;2011;0;0
+413;Hong Kong;2011;2063;7975
+414;Hungria;2011;0;0
+415;Ilha de Man;2011;0;0
+416;India;2011;0;0
+417;Indonésia;2011;0;0
+418;Irã;2011;0;0
+419;Irlanda;2011;5376;35690
+420;Itália;2011;11999;80298
+421;Japão;2011;100835;144662
+422;Jordânia;2011;0;0
+423;Letônia;2011;0;0
+424;Libéria;2011;0;0
+425;Luxemburgo;2011;9547;65592
+426;Malásia;2011;0;0
+427;Malta;2011;0;0
+428;Marshall, Ilhas;2011;0;0
+429;Mauritânia;2011;0;0
+430;México;2011;1350;7200
+431;Moçambique;2011;0;0
+432;Montenegro;2011;0;0
+433;Namibia;2011;0;0
+434;Nicaragua;2011;0;0
+435;Nigéria;2011;54;210
+436;Noruega;2011;10268;78688
+437;Nova Caledônia;2011;0;0
+438;Nova Zelândia;2011;2587;7992
+439;Omã;2011;0;0
+440;Países Baixos;2011;125414;395356
+441;Panamá;2011;0;0
+442;Paraguai;2011;240168;276281
+443;Peru;2011;0;0
+444;Polônia;2011;11732;50684
+445;Portugal;2011;95;1031
+446;Quênia;2011;0;0
+447;Reino Unido;2011;122629;285642
+448;Rússia;2011;0;0
+449;São Tomé e Príncipe;2011;0;0
+450;São Vicente e Granadinas;2011;0;0
+451;Serra Leoa;2011;0;0
+452;Singapura;2011;0;0
+453;Suazilândia;2011;0;0
+454;Suécia;2011;1641;14476
+455;Suíça;2011;0;0
+456;Suriname;2011;3774;3735
+457;Tailândia;2011;0;0
+458;Taiwan (FORMOSA);2011;4500;10600
+459;Tcheca, República;2011;6846;37271
+460;Togo;2011;0;0
+461;Trinidade Tobago;2011;0;0
+462;Turquia;2011;0;0
+463;Tuvalu;2011;0;0
+464;Uruguai;2011;1238;4404
+465;Vanuatu;2011;0;0
+466;Venezuela;2011;0;0
+467;Vietnã;2011;0;0
+468;Afeganistão;2012;0;0
+469;África do Sul;2012;0;0
+470;Alemanha;2012;8189;56342
+471;Angola;2012;2833;8861
+472;Antígua e Barbuda;2012;0;0
+473;Antilhas Holandesas;2012;9247;14081
+474;Argentina;2012;0;0
+475;Aruba;2012;0;0
+476;Austrália;2012;9345;56045
+477;Áustria;2012;0;0
+478;Bahamas;2012;1374;12087
+479;Bangladesh;2012;0;0
+480;Barbados;2012;0;0
+481;Barein;2012;0;0
+482;Bélgica;2012;16132;90718
+483;Belice;2012;0;0
+484;Benin;2012;0;0
+485;Bolívia;2012;11868;16804
+486;Bósnia-Herzegovina;2012;0;0
+487;Brasil;2012;0;0
+488;Bulgária;2012;0;0
+489;Cabo Verde;2012;0;0
+490;Camarões;2012;0;0
+491;Canadá;2012;14304;146035
+492;Catar;2012;0;0
+493;Cayman, Ilhas;2012;0;0
+494;Chile;2012;8550;15438
+495;China;2012;87905;642177
+496;Chipre;2012;0;0
+497;Cingapura;2012;1212;5310
+498;Cocos (Keeling), Ilhas;2012;0;0
+499;Colômbia;2012;0;0
+500;Comores;2012;0;0
+501;Congo;2012;0;0
+502;Coreia, Republica Sul;2012;0;0
+503;Costa Rica;2012;0;0
+504;Croácia;2012;0;0
+505;Cuba;2012;0;0
+506;Curaçao;2012;0;0
+507;Dinamarca;2012;4716;23802
+508;Dominica;2012;0;0
+509;El Salvador;2012;0;0
+510;Emirados Arabes Unidos;2012;675;3300
+511;Equador;2012;0;0
+512;Eslovaca, Republica;2012;0;0
+513;Espanha;2012;0;0
+514;Estados Unidos;2012;146585;303986
+515;Estônia;2012;3321;19384
+516;Filipinas;2012;0;0
+517;Finlândia;2012;17100;67959
+518;França;2012;195604;185791
+519;Gana;2012;0;0
+520;Gibraltar;2012;0;0
+521;Granada;2012;0;0
+522;Grécia;2012;0;0
+523;Guatemala;2012;0;0
+524;Guiana;2012;0;0
+525;Guiana Francesa;2012;0;0
+526;Guine Bissau;2012;0;0
+527;Guine Equatorial;2012;819;2530
+528;Haiti;2012;0;0
+529;Honduras;2012;0;0
+530;Hong Kong;2012;1609;7653
+531;Hungria;2012;0;0
+532;Ilha de Man;2012;0;0
+533;India;2012;0;0
+534;Indonésia;2012;0;0
+535;Irã;2012;0;0
+536;Irlanda;2012;0;0
+537;Itália;2012;792;5622
+538;Japão;2012;29281;116961
+539;Jordânia;2012;0;0
+540;Letônia;2012;0;0
+541;Libéria;2012;0;0
+542;Luxemburgo;2012;2444;16547
+543;Malásia;2012;0;0
+544;Malta;2012;0;0
+545;Marshall, Ilhas;2012;0;0
+546;Mauritânia;2012;0;0
+547;México;2012;0;0
+548;Moçambique;2012;0;0
+549;Montenegro;2012;0;0
+550;Namibia;2012;0;0
+551;Nicaragua;2012;0;0
+552;Nigéria;2012;6449;10196
+553;Noruega;2012;5104;31515
+554;Nova Caledônia;2012;0;0
+555;Nova Zelândia;2012;2364;8817
+556;Omã;2012;0;0
+557;Países Baixos;2012;134879;539641
+558;Panamá;2012;39;2262
+559;Paraguai;2012;354824;428279
+560;Peru;2012;0;0
+561;Polônia;2012;21663;89158
+562;Portugal;2012;47172;47022
+563;Quênia;2012;94;458
+564;Reino Unido;2012;82937;334856
+565;Rússia;2012;4528176;2103968
+566;São Tomé e Príncipe;2012;0;0
+567;São Vicente e Granadinas;2012;0;0
+568;Serra Leoa;2012;0;0
+569;Singapura;2012;0;0
+570;Suazilândia;2012;0;0
+571;Suécia;2012;2705;17280
+572;Suíça;2012;4014;47240
+573;Suriname;2012;396;1288
+574;Tailândia;2012;0;0
+575;Taiwan (FORMOSA);2012;0;0
+576;Tcheca, República;2012;7960;27789
+577;Togo;2012;0;0
+578;Trinidade Tobago;2012;531;2720
+579;Turquia;2012;0;0
+580;Tuvalu;2012;0;0
+581;Uruguai;2012;1135;3879
+582;Vanuatu;2012;0;0
+583;Venezuela;2012;1029;7492
+584;Vietnã;2012;0;0
+585;Afeganistão;2013;0;0
+586;África do Sul;2013;0;0
+587;Alemanha;2013;61699;265978
+588;Angola;2013;1573;9300
+589;Antígua e Barbuda;2013;0;0
+590;Antilhas Holandesas;2013;11281;19565
+591;Argentina;2013;0;0
+592;Aruba;2013;0;0
+593;Austrália;2013;16707;101715
+594;Áustria;2013;0;0
+595;Bahamas;2013;581;5145
+596;Bangladesh;2013;0;0
+597;Barbados;2013;0;0
+598;Barein;2013;0;0
+599;Bélgica;2013;22461;95893
+600;Belice;2013;0;0
+601;Benin;2013;0;0
+602;Bolívia;2013;19147;25998
+603;Bósnia-Herzegovina;2013;0;0
+604;Brasil;2013;0;0
+605;Bulgária;2013;0;0
+606;Cabo Verde;2013;0;0
+607;Camarões;2013;0;0
+608;Canadá;2013;25329;174643
+609;Catar;2013;0;0
+610;Cayman, Ilhas;2013;0;0
+611;Chile;2013;0;0
+612;China;2013;40929;279956
+613;Chipre;2013;0;0
+614;Cingapura;2013;766;5779
+615;Cocos (Keeling), Ilhas;2013;0;0
+616;Colômbia;2013;8;30
+617;Comores;2013;0;0
+618;Congo;2013;0;0
+619;Coreia, Republica Sul;2013;0;0
+620;Costa Rica;2013;0;0
+621;Croácia;2013;0;0
+622;Cuba;2013;0;0
+623;Curaçao;2013;0;0
+624;Dinamarca;2013;17892;101915
+625;Dominica;2013;0;0
+626;El Salvador;2013;0;0
+627;Emirados Arabes Unidos;2013;0;0
+628;Equador;2013;0;0
+629;Eslovaca, Republica;2013;0;0
+630;Espanha;2013;1972980;3748940
+631;Estados Unidos;2013;245368;786556
+632;Estônia;2013;0;0
+633;Filipinas;2013;0;0
+634;Finlândia;2013;36682;283114
+635;França;2013;6885;42256
+636;Gana;2013;0;0
+637;Gibraltar;2013;0;0
+638;Granada;2013;0;0
+639;Grécia;2013;0;0
+640;Guatemala;2013;0;0
+641;Guiana;2013;0;0
+642;Guiana Francesa;2013;0;0
+643;Guine Bissau;2013;0;0
+644;Guine Equatorial;2013;1108;5336
+645;Haiti;2013;0;0
+646;Honduras;2013;0;0
+647;Hong Kong;2013;16013;61224
+648;Hungria;2013;0;0
+649;Ilha de Man;2013;0;0
+650;India;2013;0;0
+651;Indonésia;2013;0;0
+652;Irã;2013;0;0
+653;Irlanda;2013;0;0
+654;Itália;2013;1710;11967
+655;Japão;2013;91988;429088
+656;Jordânia;2013;0;0
+657;Letônia;2013;0;0
+658;Libéria;2013;0;0
+659;Luxemburgo;2013;5135;29474
+660;Malásia;2013;0;0
+661;Malta;2013;0;0
+662;Marshall, Ilhas;2013;0;0
+663;Mauritânia;2013;0;0
+664;México;2013;0;0
+665;Moçambique;2013;0;0
+666;Montenegro;2013;0;0
+667;Namibia;2013;0;0
+668;Nicaragua;2013;0;0
+669;Nigéria;2013;1350;2245
+670;Noruega;2013;2375;19008
+671;Nova Caledônia;2013;0;0
+672;Nova Zelândia;2013;1004;4092
+673;Omã;2013;0;0
+674;Países Baixos;2013;57792;255690
+675;Panamá;2013;0;0
+676;Paraguai;2013;481564;680828
+677;Peru;2013;0;0
+678;Polônia;2013;19249;90960
+679;Portugal;2013;23810;17627
+680;Quênia;2013;6;4
+681;Reino Unido;2013;59161;305005
+682;Rússia;2013;5893291;14795694
+683;São Tomé e Príncipe;2013;0;0
+684;São Vicente e Granadinas;2013;0;0
+685;Serra Leoa;2013;0;0
+686;Singapura;2013;0;0
+687;Suazilândia;2013;0;0
+688;Suécia;2013;3195;20183
+689;Suíça;2013;2997;29785
+690;Suriname;2013;1800;2960
+691;Tailândia;2013;0;0
+692;Taiwan (FORMOSA);2013;0;0
+693;Tcheca, República;2013;3697;23549
+694;Togo;2013;0;0
+695;Trinidade Tobago;2013;0;0
+696;Turquia;2013;0;0
+697;Tuvalu;2013;0;0
+698;Uruguai;2013;1526;13343
+699;Vanuatu;2013;0;0
+700;Venezuela;2013;0;0
+701;Vietnã;2013;0;0
+702;Afeganistão;2014;0;0
+703;África do Sul;2014;0;0
+704;Alemanha;2014;213348;761653
+705;Angola;2014;12182;23124
+706;Antígua e Barbuda;2014;0;0
+707;Antilhas Holandesas;2014;4455;7169
+708;Argentina;2014;20385;95130
+709;Aruba;2014;450;755
+710;Austrália;2014;6308;43709
+711;Áustria;2014;0;0
+712;Bahamas;2014;0;0
+713;Bangladesh;2014;0;0
+714;Barbados;2014;0;0
+715;Barein;2014;0;0
+716;Bélgica;2014;151320;704093
+717;Belice;2014;0;0
+718;Benin;2014;0;0
+719;Bolívia;2014;12534;18303
+720;Bósnia-Herzegovina;2014;0;0
+721;Brasil;2014;0;0
+722;Bulgária;2014;0;0
+723;Cabo Verde;2014;0;0
+724;Camarões;2014;0;0
+725;Canadá;2014;35082;226875
+726;Catar;2014;0;0
+727;Cayman, Ilhas;2014;0;0
+728;Chile;2014;0;0
+729;China;2014;64040;455340
+730;Chipre;2014;0;0
+731;Cingapura;2014;541;3887
+732;Cocos (Keeling), Ilhas;2014;0;0
+733;Colômbia;2014;0;0
+734;Comores;2014;0;0
+735;Congo;2014;0;0
+736;Coreia, Republica Sul;2014;0;0
+737;Costa Rica;2014;0;0
+738;Croácia;2014;0;0
+739;Cuba;2014;38875;43200
+740;Curaçao;2014;0;0
+741;Dinamarca;2014;3240;16871
+742;Dominica;2014;0;0
+743;El Salvador;2014;0;0
+744;Emirados Arabes Unidos;2014;640;3381
+745;Equador;2014;0;0
+746;Eslovaca, Republica;2014;0;0
+747;Espanha;2014;0;0
+748;Estados Unidos;2014;222267;494216
+749;Estônia;2014;0;0
+750;Filipinas;2014;0;0
+751;Finlândia;2014;12960;94962
+752;França;2014;33755;167807
+753;Gana;2014;0;0
+754;Gibraltar;2014;0;0
+755;Granada;2014;0;0
+756;Grécia;2014;0;0
+757;Guatemala;2014;0;0
+758;Guiana;2014;0;0
+759;Guiana Francesa;2014;0;0
+760;Guine Bissau;2014;0;0
+761;Guine Equatorial;2014;5646;11983
+762;Haiti;2014;0;0
+763;Honduras;2014;0;0
+764;Hong Kong;2014;18130;63534
+765;Hungria;2014;0;0
+766;Ilha de Man;2014;0;0
+767;India;2014;0;0
+768;Indonésia;2014;0;0
+769;Irã;2014;0;0
+770;Irlanda;2014;0;0
+771;Itália;2014;604;2492
+772;Japão;2014;106426;401774
+773;Jordânia;2014;0;0
+774;Letônia;2014;0;0
+775;Libéria;2014;0;0
+776;Luxemburgo;2014;8281;52400
+777;Malásia;2014;0;0
+778;Malta;2014;0;0
+779;Marshall, Ilhas;2014;0;0
+780;Mauritânia;2014;0;0
+781;México;2014;1521;24336
+782;Moçambique;2014;0;0
+783;Montenegro;2014;0;0
+784;Namibia;2014;0;0
+785;Nicaragua;2014;0;0
+786;Nigéria;2014;0;0
+787;Noruega;2014;7179;50464
+788;Nova Caledônia;2014;0;0
+789;Nova Zelândia;2014;2800;13675
+790;Omã;2014;0;0
+791;Países Baixos;2014;165289;773767
+792;Panamá;2014;0;0
+793;Paraguai;2014;521847;908028
+794;Peru;2014;0;0
+795;Polônia;2014;30181;107957
+796;Portugal;2014;71544;79141
+797;Quênia;2014;0;0
+798;Reino Unido;2014;305807;1373747
+799;Rússia;2014;190656;61440
+800;São Tomé e Príncipe;2014;0;0
+801;São Vicente e Granadinas;2014;0;0
+802;Serra Leoa;2014;0;0
+803;Singapura;2014;0;0
+804;Suazilândia;2014;0;0
+805;Suécia;2014;10404;51057
+806;Suíça;2014;27933;231762
+807;Suriname;2014;6;19
+808;Tailândia;2014;0;0
+809;Taiwan (FORMOSA);2014;12519;67907
+810;Tcheca, República;2014;4500;35005
+811;Togo;2014;0;0
+812;Trinidade Tobago;2014;360;1600
+813;Turquia;2014;0;0
+814;Tuvalu;2014;0;0
+815;Uruguai;2014;0;0
+816;Vanuatu;2014;0;0
+817;Venezuela;2014;14;232
+818;Vietnã;2014;0;0
+819;Afeganistão;2015;0;0
+820;África do Sul;2015;0;0
+821;Alemanha;2015;10680;44780
+822;Angola;2015;1908;17089
+823;Antígua e Barbuda;2015;0;0
+824;Antilhas Holandesas;2015;6660;10545
+825;Argentina;2015;0;0
+826;Aruba;2015;0;0
+827;Austrália;2015;7437;48011
+828;Áustria;2015;0;0
+829;Bahamas;2015;0;0
+830;Bangladesh;2015;0;0
+831;Barbados;2015;0;0
+832;Barein;2015;0;0
+833;Bélgica;2015;4473;26399
+834;Belice;2015;0;0
+835;Benin;2015;0;0
+836;Bolívia;2015;10674;12990
+837;Bósnia-Herzegovina;2015;0;0
+838;Brasil;2015;0;0
+839;Bulgária;2015;0;0
+840;Cabo Verde;2015;0;0
+841;Camarões;2015;0;0
+842;Canadá;2015;24547;118394
+843;Catar;2015;0;0
+844;Cayman, Ilhas;2015;0;0
+845;Chile;2015;0;0
+846;China;2015;47609;222866
+847;Chipre;2015;0;0
+848;Cingapura;2015;1116;2774
+849;Cocos (Keeling), Ilhas;2015;0;0
+850;Colômbia;2015;0;0
+851;Comores;2015;0;0
+852;Congo;2015;0;0
+853;Coreia, Republica Sul;2015;0;0
+854;Costa Rica;2015;0;0
+855;Croácia;2015;0;0
+856;Cuba;2015;97965;108864
+857;Curaçao;2015;0;0
+858;Dinamarca;2015;7080;29306
+859;Dominica;2015;0;0
+860;El Salvador;2015;0;0
+861;Emirados Arabes Unidos;2015;765;3740
+862;Equador;2015;0;0
+863;Eslovaca, Republica;2015;0;0
+864;Espanha;2015;0;0
+865;Estados Unidos;2015;195896;524109
+866;Estônia;2015;0;0
+867;Filipinas;2015;0;0
+868;Finlândia;2015;0;0
+869;França;2015;1596;4749
+870;Gana;2015;0;0
+871;Gibraltar;2015;0;0
+872;Granada;2015;0;0
+873;Grécia;2015;0;0
+874;Guatemala;2015;0;0
+875;Guiana;2015;0;0
+876;Guiana Francesa;2015;0;0
+877;Guine Bissau;2015;0;0
+878;Guine Equatorial;2015;0;0
+879;Haiti;2015;0;0
+880;Honduras;2015;0;0
+881;Hong Kong;2015;1229;7837
+882;Hungria;2015;0;0
+883;Ilha de Man;2015;0;0
+884;India;2015;0;0
+885;Indonésia;2015;0;0
+886;Irã;2015;0;0
+887;Irlanda;2015;0;0
+888;Itália;2015;0;0
+889;Japão;2015;31597;87853
+890;Jordânia;2015;0;0
+891;Letônia;2015;0;0
+892;Libéria;2015;0;0
+893;Luxemburgo;2015;2295;17358
+894;Malásia;2015;0;0
+895;Malta;2015;0;0
+896;Marshall, Ilhas;2015;0;0
+897;Mauritânia;2015;0;0
+898;México;2015;0;0
+899;Moçambique;2015;0;0
+900;Montenegro;2015;0;0
+901;Namibia;2015;0;0
+902;Nicaragua;2015;0;0
+903;Nigéria;2015;0;0
+904;Noruega;2015;1058;6021
+905;Nova Caledônia;2015;0;0
+906;Nova Zelândia;2015;809;3476
+907;Omã;2015;0;0
+908;Países Baixos;2015;44987;186464
+909;Panamá;2015;0;0
+910;Paraguai;2015;495428;741370
+911;Peru;2015;0;0
+912;Polônia;2015;11654;42781
+913;Portugal;2015;47736;42586
+914;Quênia;2015;0;0
+915;Reino Unido;2015;68382;308407
+916;Rússia;2015;47664;18240
+917;São Tomé e Príncipe;2015;0;0
+918;São Vicente e Granadinas;2015;0;0
+919;Serra Leoa;2015;0;0
+920;Singapura;2015;0;0
+921;Suazilândia;2015;0;0
+922;Suécia;2015;1412;6404
+923;Suíça;2015;15872;85790
+924;Suriname;2015;453;713
+925;Tailândia;2015;0;0
+926;Taiwan (FORMOSA);2015;7200;23940
+927;Tcheca, República;2015;2297;15304
+928;Togo;2015;0;0
+929;Trinidade Tobago;2015;0;0
+930;Turquia;2015;0;0
+931;Tuvalu;2015;0;0
+932;Uruguai;2015;0;0
+933;Vanuatu;2015;0;0
+934;Venezuela;2015;0;0
+935;Vietnã;2015;0;0
+936;Afeganistão;2016;0;0
+937;África do Sul;2016;0;0
+938;Alemanha;2016;14012;68109
+939;Angola;2016;7359;35390
+940;Antígua e Barbuda;2016;0;0
+941;Antilhas Holandesas;2016;16641;26450
+942;Argentina;2016;0;0
+943;Aruba;2016;0;0
+944;Austrália;2016;1954;13799
+945;Áustria;2016;675;5220
+946;Bahamas;2016;0;0
+947;Bangladesh;2016;0;0
+948;Barbados;2016;0;0
+949;Barein;2016;0;0
+950;Bélgica;2016;7200;46534
+951;Belice;2016;0;0
+952;Benin;2016;5040;20333
+953;Bolívia;2016;13586;16902
+954;Bósnia-Herzegovina;2016;0;0
+955;Brasil;2016;0;0
+956;Bulgária;2016;0;0
+957;Cabo Verde;2016;0;0
+958;Camarões;2016;0;0
+959;Canadá;2016;13711;71096
+960;Catar;2016;0;0
+961;Cayman, Ilhas;2016;0;0
+962;Chile;2016;0;0
+963;China;2016;134106;499622
+964;Chipre;2016;0;0
+965;Cingapura;2016;5445;13199
+966;Cocos (Keeling), Ilhas;2016;0;0
+967;Colômbia;2016;0;0
+968;Comores;2016;0;0
+969;Congo;2016;0;0
+970;Coreia, Republica Sul;2016;8;20
+971;Costa Rica;2016;0;0
+972;Croácia;2016;0;0
+973;Cuba;2016;63741;69830
+974;Curaçao;2016;0;0
+975;Dinamarca;2016;1278;8171
+976;Dominica;2016;0;0
+977;El Salvador;2016;0;0
+978;Emirados Arabes Unidos;2016;585;2760
+979;Equador;2016;0;0
+980;Eslovaca, Republica;2016;0;0
+981;Espanha;2016;0;0
+982;Estados Unidos;2016;258072;687411
+983;Estônia;2016;900;4800
+984;Filipinas;2016;0;0
+985;Finlândia;2016;7617;41003
+986;França;2016;6037;30055
+987;Gana;2016;0;0
+988;Gibraltar;2016;0;0
+989;Granada;2016;0;0
+990;Grécia;2016;0;0
+991;Guatemala;2016;0;0
+992;Guiana;2016;0;0
+993;Guiana Francesa;2016;0;0
+994;Guine Bissau;2016;0;0
+995;Guine Equatorial;2016;0;0
+996;Haiti;2016;0;0
+997;Honduras;2016;0;0
+998;Hong Kong;2016;6975;86199
+999;Hungria;2016;0;0
+1000;Ilha de Man;2016;0;0
+1001;India;2016;0;0
+1002;Indonésia;2016;0;0
+1003;Irã;2016;0;0
+1004;Irlanda;2016;0;0
+1005;Itália;2016;585;3465
+1006;Japão;2016;34341;90954
+1007;Jordânia;2016;0;0
+1008;Letônia;2016;0;0
+1009;Libéria;2016;0;0
+1010;Luxemburgo;2016;2759;21426
+1011;Malásia;2016;0;0
+1012;Malta;2016;0;0
+1013;Marshall, Ilhas;2016;0;0
+1014;Mauritânia;2016;0;0
+1015;México;2016;0;0
+1016;Moçambique;2016;0;0
+1017;Montenegro;2016;0;0
+1018;Namibia;2016;0;0
+1019;Nicaragua;2016;0;0
+1020;Nigéria;2016;0;0
+1021;Noruega;2016;0;0
+1022;Nova Caledônia;2016;0;0
+1023;Nova Zelândia;2016;504;9472
+1024;Omã;2016;0;0
+1025;Países Baixos;2016;42953;190203
+1026;Panamá;2016;0;0
+1027;Paraguai;2016;985739;1655417
+1028;Peru;2016;0;0
+1029;Polônia;2016;11457;35402
+1030;Portugal;2016;0;0
+1031;Quênia;2016;0;0
+1032;Reino Unido;2016;117044;536681
+1033;Rússia;2016;0;0
+1034;São Tomé e Príncipe;2016;0;0
+1035;São Vicente e Granadinas;2016;0;0
+1036;Serra Leoa;2016;0;0
+1037;Singapura;2016;0;0
+1038;Suazilândia;2016;0;0
+1039;Suécia;2016;291;1214
+1040;Suíça;2016;4230;33340
+1041;Suriname;2016;900;1375
+1042;Tailândia;2016;0;0
+1043;Taiwan (FORMOSA);2016;16967;80379
+1044;Tcheca, República;2016;3837;28473
+1045;Togo;2016;0;0
+1046;Trinidade Tobago;2016;0;0
+1047;Turquia;2016;0;0
+1048;Tuvalu;2016;0;0
+1049;Uruguai;2016;0;0
+1050;Vanuatu;2016;0;0
+1051;Venezuela;2016;0;0
+1052;Vietnã;2016;0;0
+1053;Afeganistão;2017;0;0
+1054;África do Sul;2017;0;0
+1055;Alemanha;2017;15467;87702
+1056;Angola;2017;10170;61680
+1057;Antígua e Barbuda;2017;0;0
+1058;Antilhas Holandesas;2017;5400;8550
+1059;Argentina;2017;0;0
+1060;Aruba;2017;0;0
+1061;Austrália;2017;1350;7500
+1062;Áustria;2017;0;0
+1063;Bahamas;2017;0;0
+1064;Bangladesh;2017;0;0
+1065;Barbados;2017;0;0
+1066;Barein;2017;0;0
+1067;Bélgica;2017;2790;16405
+1068;Belice;2017;0;0
+1069;Benin;2017;0;0
+1070;Bolívia;2017;9495;23085
+1071;Bósnia-Herzegovina;2017;0;0
+1072;Brasil;2017;0;0
+1073;Bulgária;2017;117;1579
+1074;Cabo Verde;2017;0;0
+1075;Camarões;2017;1749;7476
+1076;Canadá;2017;6075;30658
+1077;Catar;2017;13338;81606
+1078;Cayman, Ilhas;2017;0;0
+1079;Chile;2017;0;0
+1080;China;2017;67594;266086
+1081;Chipre;2017;0;0
+1082;Cingapura;2017;0;0
+1083;Cocos (Keeling), Ilhas;2017;0;0
+1084;Colômbia;2017;0;0
+1085;Comores;2017;0;0
+1086;Congo;2017;0;0
+1087;Coreia, Republica Sul;2017;0;0
+1088;Costa Rica;2017;0;0
+1089;Croácia;2017;0;0
+1090;Cuba;2017;62791;72229
+1091;Curaçao;2017;12340;23011
+1092;Dinamarca;2017;581;2829
+1093;Dominica;2017;0;0
+1094;El Salvador;2017;0;0
+1095;Emirados Arabes Unidos;2017;675;3302
+1096;Equador;2017;0;0
+1097;Eslovaca, Republica;2017;0;0
+1098;Espanha;2017;0;0
+1099;Estados Unidos;2017;132688;1523699
+1100;Estônia;2017;0;0
+1101;Filipinas;2017;0;0
+1102;Finlândia;2017;0;0
+1103;França;2017;4253;21654
+1104;Gana;2017;0;0
+1105;Gibraltar;2017;0;0
+1106;Granada;2017;0;0
+1107;Grécia;2017;0;0
+1108;Guatemala;2017;0;0
+1109;Guiana;2017;0;0
+1110;Guiana Francesa;2017;0;0
+1111;Guine Bissau;2017;48;90
+1112;Guine Equatorial;2017;2639;30563
+1113;Haiti;2017;0;0
+1114;Honduras;2017;0;0
+1115;Hong Kong;2017;1934;8180
+1116;Hungria;2017;0;0
+1117;Ilha de Man;2017;0;0
+1118;India;2017;0;0
+1119;Indonésia;2017;0;0
+1120;Irã;2017;0;0
+1121;Irlanda;2017;0;0
+1122;Itália;2017;468;2248
+1123;Japão;2017;33909;92886
+1124;Jordânia;2017;0;0
+1125;Letônia;2017;387;3723
+1126;Libéria;2017;0;0
+1127;Luxemburgo;2017;2719;21947
+1128;Malásia;2017;0;0
+1129;Malta;2017;0;0
+1130;Marshall, Ilhas;2017;0;0
+1131;Mauritânia;2017;0;0
+1132;México;2017;664;2292
+1133;Moçambique;2017;0;0
+1134;Montenegro;2017;0;0
+1135;Namibia;2017;0;0
+1136;Nicaragua;2017;0;0
+1137;Nigéria;2017;0;0
+1138;Noruega;2017;0;0
+1139;Nova Caledônia;2017;0;0
+1140;Nova Zelândia;2017;1678;8140
+1141;Omã;2017;0;0
+1142;Países Baixos;2017;0;0
+1143;Panamá;2017;0;0
+1144;Paraguai;2017;2393468;4274650
+1145;Peru;2017;0;0
+1146;Polônia;2017;0;0
+1147;Portugal;2017;0;0
+1148;Quênia;2017;0;0
+1149;Reino Unido;2017;60711;242883
+1150;Rússia;2017;0;0
+1151;São Tomé e Príncipe;2017;0;0
+1152;São Vicente e Granadinas;2017;0;0
+1153;Serra Leoa;2017;0;0
+1154;Singapura;2017;0;0
+1155;Suazilândia;2017;0;0
+1156;Suécia;2017;15445;64953
+1157;Suíça;2017;6525;74816
+1158;Suriname;2017;3690;5638
+1159;Tailândia;2017;0;0
+1160;Taiwan (FORMOSA);2017;14988;43954
+1161;Tcheca, República;2017;2746;16947
+1162;Togo;2017;0;0
+1163;Trinidade Tobago;2017;0;0
+1164;Turquia;2017;0;0
+1165;Tuvalu;2017;0;0
+1166;Uruguai;2017;0;0
+1167;Vanuatu;2017;0;0
+1168;Venezuela;2017;680;2646
+1169;Vietnã;2017;0;0
+1170;Afeganistão;2018;0;0
+1171;África do Sul;2018;0;0
+1172;Alemanha;2018;10794;45382
+1173;Angola;2018;477;709
+1174;Antígua e Barbuda;2018;37;191
+1175;Antilhas Holandesas;2018;0;0
+1176;Argentina;2018;15711;59150
+1177;Aruba;2018;0;0
+1178;Austrália;2018;2055;6902
+1179;Áustria;2018;0;0
+1180;Bahamas;2018;141;634
+1181;Bangladesh;2018;0;0
+1182;Barbados;2018;0;0
+1183;Barein;2018;0;0
+1184;Bélgica;2018;7497;52799
+1185;Belice;2018;0;0
+1186;Benin;2018;0;0
+1187;Bolívia;2018;21566;57424
+1188;Bósnia-Herzegovina;2018;0;0
+1189;Brasil;2018;0;0
+1190;Bulgária;2018;0;0
+1191;Cabo Verde;2018;18;48
+1192;Camarões;2018;0;0
+1193;Canadá;2018;5308;20414
+1194;Catar;2018;0;0
+1195;Cayman, Ilhas;2018;19;203
+1196;Chile;2018;11049;42832
+1197;China;2018;30835;126336
+1198;Chipre;2018;279;480
+1199;Cingapura;2018;3298;11616
+1200;Cocos (Keeling), Ilhas;2018;0;0
+1201;Colômbia;2018;6944;26273
+1202;Comores;2018;0;0
+1203;Congo;2018;0;0
+1204;Coreia, Republica Sul;2018;120;109
+1205;Costa Rica;2018;0;0
+1206;Croácia;2018;0;0
+1207;Cuba;2018;4776;5584
+1208;Curaçao;2018;23930;43676
+1209;Dinamarca;2018;0;0
+1210;Dominica;2018;0;0
+1211;El Salvador;2018;0;0
+1212;Emirados Arabes Unidos;2018;360;1762
+1213;Equador;2018;0;0
+1214;Eslovaca, Republica;2018;0;0
+1215;Espanha;2018;6123;22631
+1216;Estados Unidos;2018;169109;512519
+1217;Estônia;2018;0;0
+1218;Filipinas;2018;9608;16205
+1219;Finlândia;2018;0;0
+1220;França;2018;11077;48677
+1221;Gana;2018;9000;13502
+1222;Gibraltar;2018;0;0
+1223;Granada;2018;0;0
+1224;Grécia;2018;232;730
+1225;Guatemala;2018;0;0
+1226;Guiana;2018;0;0
+1227;Guiana Francesa;2018;0;0
+1228;Guine Bissau;2018;0;0
+1229;Guine Equatorial;2018;8389;26808
+1230;Haiti;2018;79500;144425
+1231;Honduras;2018;0;0
+1232;Hong Kong;2018;1742;9029
+1233;Hungria;2018;0;0
+1234;Ilha de Man;2018;0;0
+1235;India;2018;0;0
+1236;Indonésia;2018;0;0
+1237;Irã;2018;0;0
+1238;Irlanda;2018;7560;25767
+1239;Itália;2018;3661;13260
+1240;Japão;2018;36992;112342
+1241;Jordânia;2018;0;0
+1242;Letônia;2018;0;0
+1243;Libéria;2018;658;3100
+1244;Luxemburgo;2018;1778;11053
+1245;Malásia;2018;15;33
+1246;Malta;2018;503;1192
+1247;Marshall, Ilhas;2018;923;2436
+1248;Mauritânia;2018;0;0
+1249;México;2018;2748;9744
+1250;Moçambique;2018;0;0
+1251;Montenegro;2018;0;0
+1252;Namibia;2018;0;0
+1253;Nicaragua;2018;0;0
+1254;Nigéria;2018;5175;6250
+1255;Noruega;2018;1295;9847
+1256;Nova Caledônia;2018;0;0
+1257;Nova Zelândia;2018;969;5565
+1258;Omã;2018;0;0
+1259;Países Baixos;2018;9451;32395
+1260;Panamá;2018;1183;3117
+1261;Paraguai;2018;3234168;5494321
+1262;Peru;2018;5193;19372
+1263;Polônia;2018;720;4679
+1264;Portugal;2018;0;0
+1265;Quênia;2018;6771;31225
+1266;Reino Unido;2018;67708;296827
+1267;Rússia;2018;0;0
+1268;São Tomé e Príncipe;2018;2184;2357
+1269;São Vicente e Granadinas;2018;0;0
+1270;Serra Leoa;2018;0;0
+1271;Singapura;2018;0;0
+1272;Suazilândia;2018;0;0
+1273;Suécia;2018;8062;34563
+1274;Suíça;2018;0;0
+1275;Suriname;2018;0;0
+1276;Tailândia;2018;8;45
+1277;Taiwan (FORMOSA);2018;7589;18421
+1278;Tcheca, República;2018;2712;20980
+1279;Togo;2018;0;0
+1280;Trinidade Tobago;2018;0;0
+1281;Turquia;2018;360;150
+1282;Tuvalu;2018;0;0
+1283;Uruguai;2018;7711;29617
+1284;Vanuatu;2018;0;0
+1285;Venezuela;2018;71;355
+1286;Vietnã;2018;0;0
+1287;Afeganistão;2019;0;0
+1288;África do Sul;2019;26;95
+1289;Alemanha;2019;3660;25467
+1290;Angola;2019;345;1065
+1291;Antígua e Barbuda;2019;219;1549
+1292;Antilhas Holandesas;2019;0;0
+1293;Argentina;2019;0;0
+1294;Aruba;2019;0;0
+1295;Austrália;2019;1161;4682
+1296;Áustria;2019;0;0
+1297;Bahamas;2019;791;3124
+1298;Bangladesh;2019;0;0
+1299;Barbados;2019;36;394
+1300;Barein;2019;482;2144
+1301;Bélgica;2019;2498;12548
+1302;Belice;2019;9;29
+1303;Benin;2019;9;9
+1304;Bolívia;2019;0;0
+1305;Bósnia-Herzegovina;2019;0;0
+1306;Brasil;2019;0;0
+1307;Bulgária;2019;0;0
+1308;Cabo Verde;2019;0;0
+1309;Camarões;2019;0;0
+1310;Canadá;2019;1589;6933
+1311;Catar;2019;0;0
+1312;Cayman, Ilhas;2019;19;106
+1313;Chile;2019;0;0
+1314;China;2019;129852;376828
+1315;Chipre;2019;672;1843
+1316;Cingapura;2019;5044;19099
+1317;Cocos (Keeling), Ilhas;2019;0;0
+1318;Colômbia;2019;897;1999
+1319;Comores;2019;0;0
+1320;Congo;2019;0;0
+1321;Coreia, Republica Sul;2019;70;194
+1322;Costa Rica;2019;0;0
+1323;Croácia;2019;0;0
+1324;Cuba;2019;0;0
+1325;Curaçao;2019;33951;62067
+1326;Dinamarca;2019;240;306
+1327;Dominica;2019;0;0
+1328;El Salvador;2019;0;0
+1329;Emirados Arabes Unidos;2019;450;2202
+1330;Equador;2019;2;3
+1331;Eslovaca, Republica;2019;0;0
+1332;Espanha;2019;3540;1353
+1333;Estados Unidos;2019;209765;616274
+1334;Estônia;2019;0;0
+1335;Filipinas;2019;736;2486
+1336;Finlândia;2019;0;0
+1337;França;2019;18286;67072
+1338;Gana;2019;7673;10010
+1339;Gibraltar;2019;23;93
+1340;Granada;2019;0;0
+1341;Grécia;2019;561;1994
+1342;Guatemala;2019;1597;8719
+1343;Guiana;2019;424;1311
+1344;Guiana Francesa;2019;0;0
+1345;Guine Bissau;2019;0;0
+1346;Guine Equatorial;2019;0;0
+1347;Haiti;2019;81873;129803
+1348;Honduras;2019;0;0
+1349;Hong Kong;2019;9651;42020
+1350;Hungria;2019;0;0
+1351;Ilha de Man;2019;28;175
+1352;India;2019;51;273
+1353;Indonésia;2019;0;0
+1354;Irã;2019;0;0
+1355;Irlanda;2019;0;0
+1356;Itália;2019;587;1625
+1357;Japão;2019;40621;99642
+1358;Jordânia;2019;0;0
+1359;Letônia;2019;0;0
+1360;Libéria;2019;4441;20068
+1361;Luxemburgo;2019;1666;11211
+1362;Malásia;2019;48;110
+1363;Malta;2019;3661;8828
+1364;Marshall, Ilhas;2019;7276;15786
+1365;Mauritânia;2019;0;0
+1366;México;2019;4;4
+1367;Moçambique;2019;0;0
+1368;Montenegro;2019;9;46
+1369;Namibia;2019;0;0
+1370;Nicaragua;2019;0;0
+1371;Nigéria;2019;28437;38555
+1372;Noruega;2019;628;3139
+1373;Nova Caledônia;2019;0;0
+1374;Nova Zelândia;2019;500;2832
+1375;Omã;2019;0;0
+1376;Países Baixos;2019;44882;148031
+1377;Panamá;2019;7918;29017
+1378;Paraguai;2019;2419537;3826587
+1379;Peru;2019;9755;17310
+1380;Polônia;2019;5;11
+1381;Portugal;2019;18328;72413
+1382;Quênia;2019;0;0
+1383;Reino Unido;2019;34295;164592
+1384;Rússia;2019;0;0
+1385;São Tomé e Príncipe;2019;0;0
+1386;São Vicente e Granadinas;2019;0;0
+1387;Serra Leoa;2019;18;717
+1388;Singapura;2019;0;0
+1389;Suazilândia;2019;0;0
+1390;Suécia;2019;28;761
+1391;Suíça;2019;2223;28503
+1392;Suriname;2019;3206;4741
+1393;Tailândia;2019;128;832
+1394;Taiwan (FORMOSA);2019;12;67
+1395;Tcheca, República;2019;2115;16391
+1396;Togo;2019;0;0
+1397;Trinidade Tobago;2019;0;0
+1398;Turquia;2019;115;209
+1399;Tuvalu;2019;0;0
+1400;Uruguai;2019;6180;18497
+1401;Vanuatu;2019;0;0
+1402;Venezuela;2019;0;0
+1403;Vietnã;2019;20;32
+1404;Afeganistão;2020;0;0
+1405;África do Sul;2020;4;21
+1406;Alemanha;2020;6261;32605
+1407;Angola;2020;0;0
+1408;Antígua e Barbuda;2020;624;1864
+1409;Antilhas Holandesas;2020;0;0
+1410;Argentina;2020;1015;4176
+1411;Aruba;2020;0;0
+1412;Austrália;2020;1013;3413
+1413;Áustria;2020;0;0
+1414;Bahamas;2020;1212;3703
+1415;Bangladesh;2020;3;29
+1416;Barbados;2020;143;169
+1417;Barein;2020;8;28
+1418;Bélgica;2020;3166;20460
+1419;Belice;2020;0;0
+1420;Benin;2020;0;0
+1421;Bolívia;2020;9900;16025
+1422;Bósnia-Herzegovina;2020;45;52
+1423;Brasil;2020;0;0
+1424;Bulgária;2020;0;0
+1425;Cabo Verde;2020;0;0
+1426;Camarões;2020;0;178
+1427;Canadá;2020;1672;8431
+1428;Catar;2020;0;0
+1429;Cayman, Ilhas;2020;123;339
+1430;Chile;2020;11;13
+1431;China;2020;122253;363000
+1432;Chipre;2020;2478;6785
+1433;Cingapura;2020;4049;9316
+1434;Cocos (Keeling), Ilhas;2020;0;0
+1435;Colômbia;2020;15660;23780
+1436;Comores;2020;9;25
+1437;Congo;2020;0;0
+1438;Coreia, Republica Sul;2020;103;433
+1439;Costa Rica;2020;0;0
+1440;Croácia;2020;21;123
+1441;Cuba;2020;0;0
+1442;Curaçao;2020;47962;65986
+1443;Dinamarca;2020;659;1962
+1444;Dominica;2020;0;0
+1445;El Salvador;2020;0;0
+1446;Emirados Arabes Unidos;2020;581;2279
+1447;Equador;2020;3780;3824
+1448;Eslovaca, Republica;2020;0;0
+1449;Espanha;2020;28;126
+1450;Estados Unidos;2020;300178;610793
+1451;Estônia;2020;0;0
+1452;Filipinas;2020;719;1548
+1453;Finlândia;2020;0;0
+1454;França;2020;12622;57144
+1455;Gana;2020;18810;22027
+1456;Gibraltar;2020;769;2860
+1457;Granada;2020;0;0
+1458;Grécia;2020;6859;18092
+1459;Guatemala;2020;0;0
+1460;Guiana;2020;990;2577
+1461;Guiana Francesa;2020;0;0
+1462;Guine Bissau;2020;0;0
+1463;Guine Equatorial;2020;0;0
+1464;Haiti;2020;399128;471152
+1465;Honduras;2020;0;0
+1466;Hong Kong;2020;15159;41987
+1467;Hungria;2020;0;0
+1468;Ilha de Man;2020;11;121
+1469;India;2020;7;10
+1470;Indonésia;2020;5;6
+1471;Irã;2020;21;35
+1472;Irlanda;2020;29;257
+1473;Itália;2020;91;376
+1474;Japão;2020;36442;92674
+1475;Jordânia;2020;12;52
+1476;Letônia;2020;0;0
+1477;Libéria;2020;5155;17624
+1478;Luxemburgo;2020;1086;5110
+1479;Malásia;2020;0;0
+1480;Malta;2020;3490;9688
+1481;Marshall, Ilhas;2020;6270;19639
+1482;Mauritânia;2020;0;0
+1483;México;2020;24;226
+1484;Moçambique;2020;0;0
+1485;Montenegro;2020;9;20
+1486;Namibia;2020;0;0
+1487;Nicaragua;2020;0;0
+1488;Nigéria;2020;12094;26514
+1489;Noruega;2020;1859;15134
+1490;Nova Caledônia;2020;0;0
+1491;Nova Zelândia;2020;95;515
+1492;Omã;2020;0;0
+1493;Países Baixos;2020;248;1532
+1494;Panamá;2020;10821;28372
+1495;Paraguai;2020;3299013;3869243
+1496;Peru;2020;0;0
+1497;Polônia;2020;74;86
+1498;Portugal;2020;7958;34518
+1499;Quênia;2020;0;0
+1500;Reino Unido;2020;22913;82722
+1501;Rússia;2020;1463;8550
+1502;São Tomé e Príncipe;2020;0;0
+1503;São Vicente e Granadinas;2020;0;0
+1504;Serra Leoa;2020;9240;13050
+1505;Singapura;2020;0;0
+1506;Suazilândia;2020;0;0
+1507;Suécia;2020;6;24
+1508;Suíça;2020;2827;27930
+1509;Suriname;2020;4185;5277
+1510;Tailândia;2020;534;1753
+1511;Taiwan (FORMOSA);2020;963;4673
+1512;Tcheca, República;2020;563;4805
+1513;Togo;2020;0;0
+1514;Trinidade Tobago;2020;0;0
+1515;Turquia;2020;0;0
+1516;Tuvalu;2020;2;4
+1517;Uruguai;2020;0;0
+1518;Vanuatu;2020;18;31
+1519;Venezuela;2020;4086;9808
+1520;Vietnã;2020;86;584
+1521;Afeganistão;2021;11;46
+1522;África do Sul;2021;0;0
+1523;Alemanha;2021;2698;6741
+1524;Angola;2021;0;0
+1525;Antígua e Barbuda;2021;805;2268
+1526;Antilhas Holandesas;2021;0;0
+1527;Argentina;2021;6;13
+1528;Aruba;2021;0;0
+1529;Austrália;2021;705;4034
+1530;Áustria;2021;0;0
+1531;Bahamas;2021;1083;4567
+1532;Bangladesh;2021;2;20
+1533;Barbados;2021;216;844
+1534;Barein;2021;302;894
+1535;Bélgica;2021;483;3749
+1536;Belice;2021;0;0
+1537;Benin;2021;0;0
+1538;Bolívia;2021;5850;8360
+1539;Bósnia-Herzegovina;2021;0;0
+1540;Brasil;2021;31;46
+1541;Bulgária;2021;0;0
+1542;Cabo Verde;2021;16;124
+1543;Camarões;2021;0;0
+1544;Canadá;2021;1172;6157
+1545;Catar;2021;1;2
+1546;Cayman, Ilhas;2021;104;356
+1547;Chile;2021;26;6
+1548;China;2021;61884;264116
+1549;Chipre;2021;1855;4530
+1550;Cingapura;2021;0;0
+1551;Cocos (Keeling), Ilhas;2021;0;0
+1552;Colômbia;2021;12160;21867
+1553;Comores;2021;0;0
+1554;Congo;2021;0;0
+1555;Coreia, Republica Sul;2021;67;100
+1556;Costa Rica;2021;0;0
+1557;Croácia;2021;0;0
+1558;Cuba;2021;0;0
+1559;Curaçao;2021;32263;58993
+1560;Dinamarca;2021;87;504
+1561;Dominica;2021;460;634
+1562;El Salvador;2021;0;0
+1563;Emirados Arabes Unidos;2021;810;10522
+1564;Equador;2021;0;0
+1565;Eslovaca, Republica;2021;0;0
+1566;Espanha;2021;0;0
+1567;Estados Unidos;2021;111085;203554
+1568;Estônia;2021;0;0
+1569;Filipinas;2021;2784;10368
+1570;Finlândia;2021;0;0
+1571;França;2021;7052;23742
+1572;Gana;2021;12578;19196
+1573;Gibraltar;2021;0;0
+1574;Granada;2021;0;0
+1575;Grécia;2021;908;3014
+1576;Guatemala;2021;17347;29100
+1577;Guiana;2021;2372;6525
+1578;Guiana Francesa;2021;90;32
+1579;Guine Bissau;2021;0;0
+1580;Guine Equatorial;2021;0;0
+1581;Haiti;2021;670379;831181
+1582;Honduras;2021;0;0
+1583;Hong Kong;2021;12507;39390
+1584;Hungria;2021;87;583
+1585;Ilha de Man;2021;97;445
+1586;India;2021;13;86
+1587;Indonésia;2021;0;0
+1588;Irã;2021;116;287
+1589;Irlanda;2021;36;208
+1590;Itália;2021;696;3715
+1591;Japão;2021;39491;90275
+1592;Jordânia;2021;0;0
+1593;Letônia;2021;0;0
+1594;Libéria;2021;7554;23060
+1595;Luxemburgo;2021;0;0
+1596;Malásia;2021;0;0
+1597;Malta;2021;3441;15454
+1598;Marshall, Ilhas;2021;8644;22561
+1599;Mauritânia;2021;9;85
+1600;México;2021;9;2
+1601;Moçambique;2021;0;0
+1602;Montenegro;2021;14;65
+1603;Namibia;2021;0;0
+1604;Nicaragua;2021;0;0
+1605;Nigéria;2021;68247;113172
+1606;Noruega;2021;1878;8320
+1607;Nova Caledônia;2021;7227;11924
+1608;Nova Zelândia;2021;657;10477
+1609;Omã;2021;0;0
+1610;Países Baixos;2021;3791;8484
+1611;Panamá;2021;29520;48444
+1612;Paraguai;2021;6522527;7192362
+1613;Peru;2021;9720;17107
+1614;Polônia;2021;4;14
+1615;Portugal;2021;6358;42633
+1616;Quênia;2021;0;0
+1617;Reino Unido;2021;25316;122394
+1618;Rússia;2021;181931;312926
+1619;São Tomé e Príncipe;2021;0;0
+1620;São Vicente e Granadinas;2021;8;48
+1621;Serra Leoa;2021;6525;12955
+1622;Singapura;2021;4504;14346
+1623;Suazilândia;2021;10;24
+1624;Suécia;2021;23;74
+1625;Suíça;2021;627;6999
+1626;Suriname;2021;900;1472
+1627;Tailândia;2021;1334;2529
+1628;Taiwan (FORMOSA);2021;1313;8153
+1629;Tcheca, República;2021;456;5988
+1630;Togo;2021;1890;2012
+1631;Trinidade Tobago;2021;0;0
+1632;Turquia;2021;343;878
+1633;Tuvalu;2021;0;0
+1634;Uruguai;2021;136774;149842
+1635;Vanuatu;2021;0;0
+1636;Venezuela;2021;26415;35944
+1637;Vietnã;2021;0;0
+1638;Afeganistão;2022;0;0
+1639;África do Sul;2022;0;0
+1640;Alemanha;2022;7630;45367
+1641;Angola;2022;4068;4761
+1642;Antígua e Barbuda;2022;419;1866
+1643;Antilhas Holandesas;2022;0;0
+1644;Argentina;2022;480;3232
+1645;Aruba;2022;0;0
+1646;Austrália;2022;1424;12299
+1647;Áustria;2022;6;212
+1648;Bahamas;2022;1215;5799
+1649;Bangladesh;2022;7;84
+1650;Barbados;2022;220;1145
+1651;Barein;2022;979;2789
+1652;Bélgica;2022;828;6145
+1653;Belice;2022;0;0
+1654;Benin;2022;0;0
+1655;Bolívia;2022;32530;49011
+1656;Bósnia-Herzegovina;2022;0;0
+1657;Brasil;2022;2504;952
+1658;Bulgária;2022;5;31
+1659;Cabo Verde;2022;0;0
+1660;Camarões;2022;0;0
+1661;Canadá;2022;1183;5784
+1662;Catar;2022;0;0
+1663;Cayman, Ilhas;2022;160;958
+1664;Chile;2022;2094;7986
+1665;China;2022;105395;404647
+1666;Chipre;2022;1521;4458
+1667;Cingapura;2022;0;0
+1668;Cocos (Keeling), Ilhas;2022;26;60
+1669;Colômbia;2022;8217;14068
+1670;Comores;2022;0;0
+1671;Congo;2022;0;0
+1672;Coreia, Republica Sul;2022;77;257
+1673;Costa Rica;2022;0;0
+1674;Croácia;2022;34;484
+1675;Cuba;2022;16;6
+1676;Curaçao;2022;40673;66950
+1677;Dinamarca;2022;2;6
+1678;Dominica;2022;1485;2223
+1679;El Salvador;2022;0;0
+1680;Emirados Arabes Unidos;2022;4781;85465
+1681;Equador;2022;135;210
+1682;Eslovaca, Republica;2022;0;0
+1683;Espanha;2022;0;0
+1684;Estados Unidos;2022;220373;447893
+1685;Estônia;2022;0;0
+1686;Filipinas;2022;375;790
+1687;Finlândia;2022;0;0
+1688;França;2022;5694;25008
+1689;Gana;2022;35949;49304
+1690;Gibraltar;2022;0;0
+1691;Granada;2022;5610;7914
+1692;Grécia;2022;920;2426
+1693;Guatemala;2022;1283;5350
+1694;Guiana;2022;2064;5823
+1695;Guiana Francesa;2022;22;18
+1696;Guine Bissau;2022;0;0
+1697;Guine Equatorial;2022;0;0
+1698;Haiti;2022;553503;741014
+1699;Honduras;2022;0;0
+1700;Hong Kong;2022;9371;38218
+1701;Hungria;2022;0;0
+1702;Ilha de Man;2022;165;641
+1703;India;2022;247;1021
+1704;Indonésia;2022;0;0
+1705;Irã;2022;47;90
+1706;Irlanda;2022;0;0
+1707;Itália;2022;1129;6151
+1708;Japão;2022;37324;82208
+1709;Jordânia;2022;0;0
+1710;Letônia;2022;0;0
+1711;Libéria;2022;9145;34815
+1712;Luxemburgo;2022;36;802
+1713;Malásia;2022;0;0
+1714;Malta;2022;3127;15587
+1715;Marshall, Ilhas;2022;7240;27178
+1716;Mauritânia;2022;0;0
+1717;México;2022;6;33
+1718;Moçambique;2022;383;1927
+1719;Montenegro;2022;0;0
+1720;Namibia;2022;0;0
+1721;Nicaragua;2022;0;0
+1722;Nigéria;2022;32234;50283
+1723;Noruega;2022;2711;40316
+1724;Nova Caledônia;2022;0;0
+1725;Nova Zelândia;2022;63;156
+1726;Omã;2022;194;670
+1727;Países Baixos;2022;7034;37240
+1728;Panamá;2022;11490;49392
+1729;Paraguai;2022;5076670;7156293
+1730;Peru;2022;0;0
+1731;Polônia;2022;0;0
+1732;Portugal;2022;1918;7613
+1733;Quênia;2022;1440;2080
+1734;Reino Unido;2022;18835;138154
+1735;Rússia;2022;66046;118618
+1736;São Tomé e Príncipe;2022;0;0
+1737;São Vicente e Granadinas;2022;20;51
+1738;Serra Leoa;2022;8101;15182
+1739;Singapura;2022;4322;15434
+1740;Suazilândia;2022;0;0
+1741;Suécia;2022;5;18
+1742;Suíça;2022;1584;20863
+1743;Suriname;2022;1225;3360
+1744;Tailândia;2022;432;1713
+1745;Taiwan (FORMOSA);2022;25;277
+1746;Tcheca, República;2022;1305;9997
+1747;Togo;2022;17317;25608
+1748;Trinidade Tobago;2022;0;0
+1749;Turquia;2022;418;503
+1750;Tuvalu;2022;0;0
+1751;Uruguai;2022;637117;997367
+1752;Vanuatu;2022;0;0
+1753;Venezuela;2022;23220;32351
+1754;Vietnã;2022;130;277
